@@ -1,6 +1,8 @@
 class restore
 {
-  public static void main(string args[])
+
+	int a=100;
+	public static void main(string args[])
   {
 	  system.out.println("hello git revert");
   }
